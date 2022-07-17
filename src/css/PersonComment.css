@@ -1,0 +1,41 @@
+.contenedor-comentario {
+    width: 140rem;
+    height: 43rem;
+    margin: 1rem 1rem 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFFFF;
+    box-shadow: 0 0.3rem 1.3rem 0.1rem rgb(0 0 0 / 9%);
+}
+
+.imagen {
+    height: 100%;
+    width: 34%;
+}
+
+.contenedor-texto {
+    text-align: center;
+    padding: 3.5rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 3.7rem;
+}
+
+.nombre {
+    font-size: 3rem;
+}
+
+.cargo {
+    font-size: 3rem;
+    margin: 3.5rem 0;
+}
+
+.testim {
+    font-size: 2.8rem;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+}

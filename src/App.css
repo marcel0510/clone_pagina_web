@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  background-color: #F5F6F7;
+}
+
+h1 {
+  max-width: 940px;
+  font-size: 4.8rem;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+.App {
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center  ;
+}
+
+.contenedor-principal{
+  min-height: 60rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
